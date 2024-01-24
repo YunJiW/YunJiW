@@ -33,7 +33,7 @@ Here are some ideas to get you started:
     <!-- Database -->
     <p><strong>Database</strong></p>
     <div>
-        <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+        <img src="https://img.shields.io/badge/mariaDB-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
     </div>
     <!-- Development Tools -->
     <p><strong>Development Tools</strong></p>
